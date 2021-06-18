@@ -1,0 +1,80 @@
+body{
+    background-color: chocolate;
+    font-family: 'Shadows Into Light', cursive;
+    cursor: pointer;
+}
+.caja1{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(230, 1, 1);
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+    border: 5px dotted black;
+    
+
+}
+.caja2{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(50, 84, 38);
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+    border: 5px double black
+
+}
+.caja3{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(124, 48, 65);
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+    border: 5px dotted black;
+}
+.caja4{
+    width: 350px;
+    height: 350px;
+    background-color: rgba(98, 115, 209, 0.59);
+    margin: 15px;
+    border-radius: 25px;
+    text-align: center;
+    border: 5px double black
+}
+.personas{
+    width: 100px;
+    border-right: 75px;
+    border-color: rgb(12, 158, 255) ;
+    justify-content: center;
+    align-items:center;
+    border-radius: 55px;
+    flex-wrap: wrap;
+} 
+
+.contenedor {
+    height: 750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+    
+    
+
+
+
+
+    
